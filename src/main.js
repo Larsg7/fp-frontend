@@ -9,7 +9,7 @@ Vue.material.registerTheme('default', {
   primary: 'blue',
   accent: 'red',
   warn: 'red',
-  background: 'grey',
+  background: 'white',
 });
 
 Vue.config.productionTip = false;
